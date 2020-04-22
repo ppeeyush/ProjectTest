@@ -1,10 +1,1 @@
- Volume in drive E is New Volume
- Volume Serial Number is D064-C141
-
- Directory of E:\MyProject
-
-23-04-2020  00:08    <DIR>          .
-23-04-2020  00:08    <DIR>          ..
-23-04-2020  00:08                 0 Test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  238,682,120,192 bytes free
+Hey guys this is nothing but a check for git
